@@ -1,0 +1,9 @@
+John Doe
+252-555-1212
+Work
+Jane Doe
+252-555-1313
+Friends
+James Doe
+252-555-1414
+Friends
